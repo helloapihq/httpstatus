@@ -1,7 +1,7 @@
 {
   "name": "httpstatus.is",
   "version": "1.0.0",
-  "description": "A simple service to generate HTTP status codes",
+  "description": "A simple service to return specific HTTP status codes",
   "main": "dist/index.js",
   "scripts": {
     "build": "npx tsc",

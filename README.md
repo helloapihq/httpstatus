@@ -1,2 +1,3 @@
 # httpstatus
-A simple service to generate HTTP status codes
+
+A simple service to return specific HTTP status codes
