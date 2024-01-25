@@ -15,17 +15,10 @@
   },
   "keywords": [
     "http",
-    "status",
-    "code",
-    "http",
-    "status",
-    "code",
     "api",
     "rest",
-    "rest",
-    "api",
-    "curl",
-    "wget"
+    "request",
+    "requests"
   ],
   "author": "Hello API",
   "license": "ISC",
