@@ -23,7 +23,7 @@ app.get("/:code", (req: Request, res: Response) => {
   const code = parseInt(req.params.code);
   const redirect = STATUS_CODES[code]?.redirect;
 
-  if (Number.isNaN(code) || code > 999) {
+  if (Number.isNaN(code) || code < 100 || code > 999) {
     return res
       .status(400)
       .send({ code: 400, error: STATUS_CODES[400].description });
