@@ -21,7 +21,7 @@
     "requests"
   ],
   "author": "Hello API",
-  "license": "ISC",
+  "license": "LGPLv3",
   "bugs": {
     "url": "https://github.com/helloapihq/httpstatus/issues"
   },
